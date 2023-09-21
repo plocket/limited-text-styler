@@ -1,3 +1,9 @@
+# limited-text-styler
+
+Style Obsidian text freely, but only for a limited number of styles
+
+Starting with sample plugin
+
 # Obsidian Sample Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
